@@ -1,5 +1,6 @@
 ### Hi there 🔭 👋
 
+[![dkdl012's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkdl012)](https://github.com/dkdl012/github-readme-stats)
 <!--
 **dkdl012/dkdl012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
